@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+😄)](https://git.io/typing-svg)
 
-I'm <a href="https://www.linkedin.com/in/felipe-alfaro-opazo">Felipe</a>, a 23 y.o. computer science student at <a href="https://dcc.uchile.cl/">DCC</a>, <a href="https://uchile.cl/">Universidad de Chile</a> (<a href="https://ingenieria.uchile.cl/">FCFM</a>). 
+I'm <a href="https://www.linkedin.com/in/felipe-alfaro-opazo">Felipe</a>, a 24 y.o. computer science student at <a href="https://dcc.uchile.cl/">DCC</a>, <a href="https://uchile.cl/">Universidad de Chile</a> (<a href="https://ingenieria.uchile.cl/">FCFM</a>). 
 
 
 ## 🌐 Socials
